@@ -6,4 +6,5 @@ python-dotenv
 langchain-pinecone
 langchain-community
 langchain-huggingface
+langchain-google-genai
 
