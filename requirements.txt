@@ -5,4 +5,5 @@ pypdf
 python-dotenv
 langchain-pinecone
 langchain-community
+langchain-huggingface
 
